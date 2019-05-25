@@ -12,7 +12,7 @@ Some codes are borrowed from ONMT(https://github.com/OpenNMT/OpenNMT-py)
 
 Download the processed data for CNN/Dailymail
 
-download https://drive.google.com/open?id=1x0d61LP9UAN389YN00z0Pv-7jQgirVg6
+download https://drive.google.com/open?id=1BM9wvnyXx9JvgW2um0Fk9bgQRrx03Tol
 
 unzip the zipfile and copy to `data/`
 
